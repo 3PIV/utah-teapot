@@ -1,6 +1,6 @@
 {
   "name": "utah-teapot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utah teapot exported as a JSON object",
   "main": "index.js",
   "dependencies": {},
