@@ -3,10 +3,10 @@
   "version": "1.0.1",
   "description": "Utah teapot exported as a JSON object",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "lazy": "^1.0.11"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
